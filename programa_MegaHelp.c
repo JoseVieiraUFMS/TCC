@@ -3,7 +3,7 @@ void elevador(){
 	setMotorSpeed(MotorA, 30);
 	wait1Msec(12000);
 }
-void chute(){
+void gancho(){
 	setMotorSpeed(MotorB, 100);
 	wait1Msec(400);
 }
